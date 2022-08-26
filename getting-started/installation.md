@@ -3,7 +3,7 @@
 {% hint style="danger" %}
 **New Applications Only**
 
-Like Laravel Jetstream, Socialstream should only be used within new Laravel applications. Attempting to install Socialstream (or Jetstream) into existing Laravel applications may cause expected behaviours and issues.
+Like Laravel Jetstream, Socialstream should only be used within new Laravel applications. Attempting to install Socialstream (or Jetstream) into existing Laravel applications may cause unexpected behaviours and issues.
 {% endhint %}
 
 ## Installing Socialstream
