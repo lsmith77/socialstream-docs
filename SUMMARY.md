@@ -6,6 +6,7 @@
 
 * [Installation](getting-started/installation.md)
 * [Configuration](getting-started/configuration.md)
+* [Routing](getting-started/routing.md)
 * [Customising Socialite](getting-started/customising-socialite.md)
 * [Socialite Providers](getting-started/socialite-providers.md)
 * [Laravel Passport](getting-started/laravel-passport.md)
