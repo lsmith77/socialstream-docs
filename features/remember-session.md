@@ -21,3 +21,5 @@ To turn on this feature add the following to applications `socialstream.php` con
     Features::rememberSession(),
 ],
 ```
+
+{% hint style="warning" %} This feature requires that a password (a random one if user does not set a password) is set on the user.{% endhint %}
